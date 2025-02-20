@@ -11,9 +11,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>nakkasreekar2002@curious-hawk-bsboug.com</defaultCaseOwner>
+    <defaultCaseOwner>sreekar.prod@salesforce.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>nakkasreekar2002@curious-hawk-bsboug.com</defaultCaseUser>
+    <defaultCaseUser>sreekar.prod@salesforce.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>

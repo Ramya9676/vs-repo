@@ -1,0 +1,7 @@
+Dear {!Borrowing_Record__c.Borrower__c},
+
+This is a reminder that the book "{!Borrowing_Record__c.Book__c}" borrowed on {!Borrowing_Record__c.Borrow_Date__c} is overdue for return. The due date was {!Borrowing_Record__c.Return__c}.
+
+Please return the book at the earliest to avoid penalties.
+
+Thank you!
